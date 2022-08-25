@@ -1,4 +1,5 @@
 y = 50
+x = 17
 
 def emma():
 
@@ -7,3 +8,4 @@ def emma():
     print("Jews are " + x,".")
 
 emma()
+#This is so amazing
